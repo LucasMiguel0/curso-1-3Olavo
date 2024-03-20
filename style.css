@@ -59,6 +59,10 @@ body{
     border-bottom: 4px solid var(--verde);
 }
 
+.abas-textos{
+    background-color: var(--texto-fundo);
+}
+
 .botao:first-child{
     border-radius: 40px 40px 0 0;
 }
