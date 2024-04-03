@@ -84,8 +84,10 @@ display: none;
     text-transform: uppercase;
 }
 
-.botao:first-child{
-    border-radius: 40px 40px 0 0;
+
+.contador{
+    font-size: 20px;
+    text-align: center;
 }
 
 @media screen and (min-width: 768px) {
